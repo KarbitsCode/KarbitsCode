@@ -1,5 +1,5 @@
 # 📊 GitHub Stats:
-[![](https://github-readme-stats-ruby-sigma-10.vercel.app/?username=KarbitsCode&theme=transparent&hide_border=false&show_icons=true&include_all_commits=true)](https://tiny.one/readme-stats)
+[![](https://github-readme-stats-ruby-sigma-10.vercel.app/api?username=KarbitsCode&theme=transparent&hide_border=false&show_icons=true&include_all_commits=true)](https://tiny.one/readme-stats)
 [![](https://github-readme-streak-stats-puce.vercel.app/?user=KarbitsCode&theme=transparent&hide_border=false&mode=weekly)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
