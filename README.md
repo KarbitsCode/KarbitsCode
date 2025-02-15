@@ -6,6 +6,6 @@
 [![](https://github-profile-trophy-mu.vercel.app/?username=KarbitsCode&theme=algolia&no-frame=false&no-bg=true&margin-w=4&column=-1)](https://bit.ly/profile-trophy)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KarbitsCode&icon=3&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcountpro.netlify.app/api?id=KarbitsCode&icon=3&color=0&label=Profile%20Views&pretty=false)](https://visitcountpro.netlify.app)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
